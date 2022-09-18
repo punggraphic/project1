@@ -2,31 +2,33 @@ h1 {
     color: #1A5276;
     font-size: 48px;
     text-shadow: 3px 1px lightgray;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
-.blue{
+
+.blue {
     color: blue
 }
 
-.red{
+.red {
     color: red
 }
 
-.green{
+.green {
     color: green
 }
 
-.bgimg{
-background-image: url("../images/ปลาเค็ม4.jpg");
+.bgimg {
+    background-image: url("../images/ปลาเค็ม3.jpg");
 
 }
+
 body {
     background-color: #EBF5FB;
 }
 
 a {
     color: #E74C3C;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 ul {
